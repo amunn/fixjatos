@@ -6,6 +6,8 @@ This program converts a JATOS results `.txt` file to a valid `.json` file which 
 
 This is for data written by jsPsych using the `jsPsych.data.get().json())` method.
 
+You can see sample input and output files [`test.txt`](test.txt) and [`test.json`](test.json).
+
 # Usage
 
 `fixjatos.py FILE.txt`  
