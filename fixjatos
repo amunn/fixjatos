@@ -1,4 +1,4 @@
-#!/usr/local/opt/python/libexec/bin/python
+#!/usr/bin/env python
 # This program converts the output of JATOS combined results from
 # jsPsych JSON output into valid JSON that can be imported using
 # jsonlite in R
