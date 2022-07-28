@@ -15,7 +15,7 @@ This assumes a simple jsPsych design where each subject's results are written ou
 # Installation
 
 
-Place `fixjatos` somewhere it will be found on your PATH (`~/bin` is a common place).
+Put `fixjatos` somewhere it will be found on your PATH (`~/bin` or `/usr/local/bin` are common choices).
 
 # Usage
 
